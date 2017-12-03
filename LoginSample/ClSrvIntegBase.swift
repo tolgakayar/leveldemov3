@@ -12,6 +12,7 @@ import SwiftyJSON
 class ClSrvIntegBase
     
 {
+    // tolga was here
     var targetUrl : String = ""
     var secureTargetUrl : String = ""
     var commType : String = ""
